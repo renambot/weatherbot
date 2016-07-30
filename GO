@@ -1,0 +1,12 @@
+#!/bin/sh
+
+node all.js seattle 
+sleep 2 
+ node all.js paris 
+ sleep 2 
+ node all.js antartica 
+ sleep 2 
+ node all.js tokyo
+ sleep 2 
+ node all.js rio
+
